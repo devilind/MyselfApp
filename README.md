@@ -1,4 +1,4 @@
-# swiper_project
+# Myself
 
 A new Flutter project.
 
